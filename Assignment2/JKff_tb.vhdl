@@ -1,6 +1,7 @@
 ---------------------------------------------------------------------
 -- Test Bench for JK flip-flop (ESD 2.3.1)
 -- 
+-- by Weijun Zhang, 04/2001
 -- we use another process to offer the concurrent clock signal
 ---------------------------------------------------------------------
 
